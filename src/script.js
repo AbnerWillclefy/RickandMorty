@@ -32,6 +32,7 @@ async function renderChar() {
         species.innerHTML = data.species
         gender.innerHTML = data.gender
         location.innerHTML = data.location.name
+
     } catch(error) {
         console.log(error)
     }
