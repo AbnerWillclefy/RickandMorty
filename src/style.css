@@ -61,6 +61,7 @@ button {
     border: none;
     padding: 3px 8px;
     margin: 0;
+    transition: 0.4;
 }
 
 p {
